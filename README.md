@@ -1,2 +1,1 @@
-My first script
-Vitz
+myscript /0x00-shell_basics
