@@ -1,0 +1,2 @@
+#!/bin/bash
+rsync -u --exclude '*.txt' --exclude '*.md' --exclude '*.sh' --exclude '*/' --include '*/' --include '*.html' --exclude '*' ./ ../
