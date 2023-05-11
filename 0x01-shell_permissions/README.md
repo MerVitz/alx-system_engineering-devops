@@ -1,0 +1,1 @@
+This directory contains a set of files and resources related to shell permissions in Unix-like operating systems. The goal of this project is to provide a basic understanding of permissions and related commands, as well as practical examples of how to use these commands to modify file permissions, ownership, and groups.
