@@ -1,0 +1,1 @@
+This repository contains scripts demonstrating the usage of shell redirections in Linux. Each script showcases different techniques and commands for manipulating input/output streams and redirecting them to files or other processes.
