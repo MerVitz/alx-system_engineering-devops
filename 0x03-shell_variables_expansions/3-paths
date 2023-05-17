@@ -1,2 +1,2 @@
 #!/bin/bash
-IFS=":"; count=0; for dir in $PATH; do ((count++)); done; echo $count
+IFS=":"; set -- $PATH; echo $#
