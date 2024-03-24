@@ -1,0 +1,2 @@
+Tis is configuration ideas
+
