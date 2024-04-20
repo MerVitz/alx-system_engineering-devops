@@ -4,4 +4,4 @@
 # and the enabled sites directory
 ln -sf /etc/nginx/sites-available/default /etc/nginx/sites_enabled/default
 # terminates the first nginx process 10
-kill "$(pgrep 'nginx' | head -1)"
+kill "$(pgrep 'nginx' |head -1)"
