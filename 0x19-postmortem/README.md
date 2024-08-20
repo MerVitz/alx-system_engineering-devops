@@ -1,5 +1,5 @@
 # Postmortem: Login Service Outage
-
+![Postmortem GIF](./postmortem.gif)
 ## ISSUE SUMMARY
 
 ### Duration
