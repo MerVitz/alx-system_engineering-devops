@@ -1,5 +1,7 @@
 # Postmortem: Login Service Outage
 
+![Postmortem GIF](./postmortem.gif)
+
 ## ISSUE SUMMARY
 
 ### Duration
@@ -48,4 +50,3 @@ Once the misconfiguration was identified, the team immediately rolled back to th
 2. Add monitoring for server memory and CPU usage.
 3. Set up autoscaling policies for Nginx load balancers.
 4. Conduct a post-incident review with the development and DevOps teams to refine processes.
-
